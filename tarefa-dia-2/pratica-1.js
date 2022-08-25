@@ -13,5 +13,6 @@ let lugar
 lugar = "Chile"
 console.log(lugar)
 //olá
- 
+let texto
+
 
